@@ -2,11 +2,11 @@
 Install
 This project requires Python3 and the following Python libraries installed:
 
-NumPy
-Pandas
-matplotlib
-scikit-learn
-seaborn
+- NumPy
+- Pandas
+- matplotlib
+- scikit-learn
+- seaborn
 You will also need to have software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
